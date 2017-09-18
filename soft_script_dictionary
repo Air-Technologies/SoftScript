@@ -1,0 +1,3 @@
+// How to initialize a basic SoftScript program that says Hello World, and adds 2 + 2 then spits out the results.
+
+softscript #import 
